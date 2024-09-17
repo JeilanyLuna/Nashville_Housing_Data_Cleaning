@@ -9,6 +9,8 @@ SQL
 Excel
 
 ## Data Cleaning
+
+```SQL
  --Data Cleaning
 
   Select * 
@@ -138,7 +140,7 @@ SUBSTRING(PropertyAddress, 1, CHARINDEX(',', PropertyAddress)-1) as Address
 
 Select *
 From [Portfolio_Project].[dbo].[Nashville_Housing]
-
+```
 
 ALTER TABLE [Portfolio_Project].[dbo].[Nashville_Housing]
 DROP COLUMN OwnerAddress, TaxDistrict, PropertyAddress
