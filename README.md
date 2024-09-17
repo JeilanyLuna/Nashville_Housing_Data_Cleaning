@@ -5,8 +5,8 @@
 In this project, I focused on importing and cleaning Nashville housing data within a SQL database. The process began with the extraction of raw data, which was then imported into My SQL Server. Following the import, I performed a thorough data cleaning process to address inconsistencies, remove duplicates, and ensure data accuracy. This involved standardizing data formats, correcting errors, and validating entries to prepare the dataset for further analysis and reporting. The result is a refined dataset ready for in depth exploration and insightful decision making.
 
 ## Tools Used
-SQL
-Excel
+1. SQL
+2. Excel
 
 ## Data Cleaning
 
